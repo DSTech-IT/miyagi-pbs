@@ -6,7 +6,7 @@ Save lot of Money with less performant Hardware
 Start it with bash miyagi-pbs-zfs -c configfile
 
 There are german payed Lessons here:
-14. + 16.05.2024 (13-17h) - Replikationen und Backups Trojanersicher (V2) - on https://cloudisevil.com
+Replikationen und Backups Trojanersicher (V2) - on https://cloudisevil.com
 
 You also can searh vor sysops.tv or zfs. rocks on YouTube #miyagi - an english Tutorial will follow!
 
@@ -106,5 +106,6 @@ Use your Miyagi System to get live
 5. Optional repeat this Steps for a Second ZFS Pool and be aware of duplicate Names
 6. Start your VMs
 7. optional: run our Postinstaller
+
 
 
