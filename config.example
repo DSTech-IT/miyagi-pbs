@@ -33,3 +33,6 @@ BACKUPSTOREPBS=backup #Datastorename configured in your Proxmox Backup Server
 BACKUPEXCLUDE='124,3021,3022,3023,3251,3252,3253,3254' #Machines to be excluded from Proxmox Backup
 REPLEXCLUDE=$BACKUPEXCLUDE
 
+#VERIFICATION OF THE BACKUPS
+VERIFY=option
+
